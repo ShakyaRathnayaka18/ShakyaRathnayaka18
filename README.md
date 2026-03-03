@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shakya</h1>
-<h3 align="center">A passionate web developer from SriLanka</h3>
+<h3 align="center">Software Engineer , web developer with a strong passion for AI and Robotics</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakyarathnayaka18&label=Profile%20views&color=0e75b6&style=flat" alt="shakyarathnayaka18" /> </p>
 
